@@ -23,7 +23,7 @@ public class testCase {
 	WebDriver driver;
 	Actions action = new Actions();
 	Assertions assertion = new Assertions();
-	String size = "XXL";
+	String size = "XL";
 	String color = "Gray";
 	String firstName = "Name test1";
 	String lastName = "LastNametest";
